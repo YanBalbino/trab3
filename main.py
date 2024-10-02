@@ -1,1 +1,6 @@
-print("Hello world")
+# PROJETO DA TERCEIRA UNIDADE DE IA
+# SISTEMA DE RECONHECIMENTO DE SENTIMENTOS EM TEXTO
+# Alunos: fodase
+
+texto = "Eu odeio você"
+
